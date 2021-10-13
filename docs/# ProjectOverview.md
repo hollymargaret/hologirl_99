@@ -1,3 +1,0 @@
-# ProjectOverview
-    * artist
-    * artist bio
