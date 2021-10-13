@@ -1,1 +1,6 @@
 site_name: My Docs
+docs/
+    index.md
+    project-overview.md
+    about.md
+    
