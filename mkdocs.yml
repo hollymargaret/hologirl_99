@@ -2,6 +2,8 @@ site_name: My Docs
 nav:
   - Home: index.md
   - Project Overview: project-overview.md
+  - Interview Process: interview-process.md
+  - Drafting the Biography: drafting-bio.md
 
 theme:
   name: material
