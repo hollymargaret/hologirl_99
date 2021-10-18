@@ -1,0 +1,7 @@
+site_name: Holly Lesmeister
+nav:
+  - Home: index.md
+  - Project Overview: project-overview.md
+
+theme:
+  name: material
