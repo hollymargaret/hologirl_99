@@ -1,8 +1,0 @@
-site_name: Holly Lesmeister
-nav:
-  - Home: index.md
-  - Project Overview: project-overview.md
-  - Preparing for the Interview: preparing-for-the-interview.md
-
-theme:
-  name: material
