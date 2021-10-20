@@ -5,5 +5,9 @@ nav:
   - Interview Process: interview-process.md
   - Drafting the Biography: drafting-bio.md
 
+site/assets/images/
+      Online-Interview.jpeg
+
+
 theme:
   name: material
