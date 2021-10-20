@@ -11,4 +11,4 @@ It was important to get permission from the interviewee before we actually recor
 ### Transcribing the Interview
 The Zoom application allows you to record and auto transcribe the conversation. This was one benefit of conducting the interview via Zoom over in-person. Once the interview was complete, the transcription of the audio needed to be edited for accuracy. Viewing the recording and comparing against the transcription helped to fix any errors in which the Zoom auto transcribe was inaccurate. 
 
-![Zoom Interview](/lesm0013/hologirl_99/site/assets/images/Online-Interview.png)
+![Zoom Interview](/https://pages.github.umn.edu/lesm0013/hologirl_99/site/assets/images/Online-Interview.png)
