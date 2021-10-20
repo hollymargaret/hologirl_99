@@ -1,6 +1,8 @@
 ## Serpentina Arts Project
 
-With this project, I worked collaboratively with an artist community called Serpentina Arts whose goal is to give under represented Latinx artists a platform for exhibition. I spent Fall semester 2021 partnered with a Latinx Artist. Together we developed an artist biography for him to use in his artisic endevours.
+As a part of my Writing with Digital Technology class at the U of M Twin Cities, I worked collaboratively with my classmates and an artist community called Serpentina Arts whose goal is to give under represented Latinx artists a platform for exhibition. I spent the fall semester 2021 partnered with a Latinx Artist. Together we developed an artist biography meant to be used in any way the artist saw fit. Here is a link to the [Serpentina Artist Community](https://www.facebook.com/pages/category/Artist/Serpentina-Arts-123709977640263/) page.
+
+This site contains the process in which we arrived at a finished artist biography. It will cover the following:
 
 * Project overview
 * Interview process
