@@ -3,3 +3,5 @@ After editing the interview transcript, I put together a biographical narrative 
 
 ## Revisions
 Some more correspondence was necessary to gather more information to fill out the gaps in the biography. The artist was happy to cooperate with the various emails and interviews. 
+
+## Making it Professional
