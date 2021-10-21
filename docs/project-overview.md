@@ -1,6 +1,9 @@
 # Project Overview
 
-The Serpentina Arts community's goal is to give under-represented **Latinx Artists** a platform to exhibit their artwork. My Writing with Digital Technology class took on the task of writing artist bios for any Serpentina Arts member who wanted one. Over the course of the fall semester 2021 our Writing with Digital Technology class worked in pairs (or individually) to:
+The Serpentina Arts community's goal is to give under-represented **Latinx Artists** a platform to exhibit their artwork. My Writing with Digital Technology class took on the task of writing artist bios for any Serpentina Arts member who wanted one. 
+
+## Project Steps
+Over the course of the fall semester 2021 our Writing with Digital Technology class worked in pairs (or individually) to:
 
 1. Schedule the initial interview meeting
 2. Develop interview questions and an interview plan
