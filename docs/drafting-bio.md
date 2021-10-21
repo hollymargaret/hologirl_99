@@ -3,3 +3,10 @@ After editing the interview transcript, I put together a biographical narrative.
 
 ## Revisions
 Some more correspondence was necessary to gather more information in order to fill out the gaps in the biography. The artist was happy to cooperate with the various emails and interviews. 
+
+## That's it!
+If you have any questions about this project or want to know more about my experience creating an artist bio, please reach out to me.
+
+>-Holly Lesmeister
+
+>[lesm0013@umn.edu](lesm0013@umn.edu)
