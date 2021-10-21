@@ -14,5 +14,7 @@ Over the course of the fall semester 2021 our Writing with Digital Technology cl
     * one shorter, 150 character Tweet-length bio
 5. Deliver finished bio to the artist
 
+![Conducting an Interview](zoom.jpg)
+
 At this point in the process, my partner and artist are at step 4. We have yet to do a follow up interview and deliver the finished bio. This site will be updated when those milestones have been reached.
 
