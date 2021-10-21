@@ -4,7 +4,7 @@ As a part of my **Writing with Digital Technology** class at the U of M Twin Cit
 
 This site explains the process by which we arrived at a finished artist biography. This site will cover the following:
 
-* Project overview
+* [Project overview](https://pages.github.umn.edu/lesm0013/hologirl_99/project-overview/)
 * Interview process
 * Drafting bio
 
