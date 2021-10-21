@@ -5,8 +5,8 @@ As a part of my **Writing with Digital Technology** class at the U of M Twin Cit
 This site explains the process by which we arrived at a finished artist biography. This site will cover the following:
 
 * [Project overview](https://pages.github.umn.edu/lesm0013/hologirl_99/project-overview/)
-* Interview process
-* Drafting bio
+* [Interview process](https://pages.github.umn.edu/lesm0013/hologirl_99/interview-process/)
+* [Drafting bio](https://pages.github.umn.edu/lesm0013/hologirl_99/drafting-bio/)
 
 ## About Serpentina Arts
 Serpentina Arts is a robust roster of Minnesota Latinx visual artists who have a record of creative presence in Minnesota, are innovative participants in coalition-building, and are diverse in age, artistic media, race, genders, sexualities, educational backgrounds, and cultural heritage. The programming values knowledge, reciprocity, and accountability among the participants.
