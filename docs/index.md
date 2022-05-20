@@ -1,8 +1,8 @@
 # Serpentina Arts Project
 
-As a part of my **Writing with Digital Technology** class at the University of Minnesota, Twin Cities, I worked collaboratively with my classmates and an artist community called Serpentina Arts whose goal is to give **Latinx Artists**, who are often under-represented, a platform for exhibition. I spent the fall semester of 2021 partnered with a Latinx Artist and together we developed an artist biography meant to be used in any way the artist saw fit. Here is a link to the [Serpentina Artist Community](https://www.facebook.com/pages/category/Artist/Serpentina-Arts-123709977640263/) page.
+As a part of my **Writing with Digital Technologies** class at the University of Minnesota, Twin Cities, we worked with the **Serpentina Arts** community, whose goal is to give Latinx artists a platform for exhibition and to create a unique an artist bio for each artist. The artist can use the artist's bio in any way they see fit. Here is a link to the [Serpentina Artist Community](https://www.facebook.com/pages/category/Artist/Serpentina-Arts-123709977640263/) page.
 
-This site explains the process by which we arrived at a finished artist biography by covering the following:
+This site explains how we created and delivered a finished artist biography in three steps:
 
 * [Project overview](https://pages.github.umn.edu/lesm0013/hologirl_99/project-overview/)
 * [Interview process](https://pages.github.umn.edu/lesm0013/hologirl_99/interview-process/)
